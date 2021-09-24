@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+
+  strong {
+    font-size: 2rem;
+    color: var(--textColorLight);
+  }
+}
+
+.footer {
+  position: absolute;
+  bottom: 0px !important;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

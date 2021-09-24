@@ -1,0 +1,18 @@
+{
+  "signIn": {
+    "token": "12121",
+    "user": {
+      "id": "1",
+      "name": "Marco Antonio",
+      "email": "marco_monteiro@live.com",
+      "avatar_url": "https://github.com/marcomonteirobrito.png"
+    }
+  },
+
+  "userDetail": {
+    "name": "Marco Antonio",
+    "age": 25,
+    "email": "marco_monteiro@live.com",
+    "avatar_url": "https://github.com/marcomonteirobrito.png"
+  }
+}
